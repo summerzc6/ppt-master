@@ -1,0 +1,18 @@
+{
+  "name": "Radiology SCI Report Template",
+  "description": "放射科SCI文献汇报专用模板，适配影像组学、CT/MR影像研究汇报，面向科室学术讲课",
+  "slides": [
+    {"title": "封面", "content": "论文标题｜作者｜科室｜汇报日期", "note": "开场简介，简单介绍研究背景"},
+    {"title": "研究背景", "content": "临床痛点、现有研究不足", "note": "简要阐述为什么要做这个影像研究"},
+    {"title": "研究目的", "content": "本研究拟解决的科学问题", "note": "一句话说清研究假设"},
+    {"title": "材料与方法", "content": "数据集、入排标准、影像序列、统计方法", "note": "TCIA/公开数据库来源说明"},
+    {"title": "结果", "content": "基线资料、模型效能、影像可视化图", "note": "AUC、ROC、病例样图展示"},
+    {"title": "讨论", "content": "优势、局限性、未来方向", "note": "和既往文献对比"},
+    {"title": "结论", "content": "核心结论总结", "note": "一句话概括临床价值"},
+    {"title": "Q&A", "content": "感谢聆听，欢迎提问", "note": "预留问答环节"}
+  ],
+  "style": {
+    "font": "Microsoft YaHei",
+    "primary_color": "#0F4C81"
+  }
+}
